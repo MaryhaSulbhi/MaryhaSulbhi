@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Maryha Sulbhi 👧</h1>_
 <h3 align="center">A passionate Data Science Student 🖥️🖥️ </h3>
-<img src="https://tympanus.net/Development/Batchedmesh/" alt="JS Tips" align="center" />
+<img src="https://tympanus.net/Development/Batchedmesh/"  Tips" align="center" />
 
 - 🔭 I’m currently learning DSA and logic building.
 - 💬 Ask me about Python,C,C++,Java,JavaOPPs,Html,CSS basics,Excel for data science, statics, Tableaue.
