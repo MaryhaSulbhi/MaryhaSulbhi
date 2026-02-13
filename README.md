@@ -1,3 +1,5 @@
+<img src="https://github.com/MaryhaSulbhi/MaryhaSulbhi/raw/main/119162644-9ec37580-ba28-11eb-8e73-b76149197a1e.gif"/>
+
 <h1 align="center"> Hi there 👋, I'm Maryha Sulbhi 👧</h1>
 <h3 align="center">A passionate Data Science Student 🖥️🖥️ </h3>
 
