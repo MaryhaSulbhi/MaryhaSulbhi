@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science Student 🖥️🖥️ </h3>
 
 - 🔭 I’m currently learning DSA and logic building.
-- 💬 Ask me about Python,C,C++,Java,JavaOPPs,Html,CSS basics,Excel for data science, statics, Tableaue.
+- 💬 Ask me about Python, C, C++, Java, JavaOOPs, HTML, CSS Basics, Excel for Data Science, Statics, Tableau.
 - 📫 How to reach me: maryhasulbhi67@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: Ever get stuck watching reels for hours on Instagram? That's data science quietly learning what you love almost like it knows you better than your best friend.
