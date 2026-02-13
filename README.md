@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Maryha Sulbhi 👧</h1>_
+<h1 align="center"> Hi there 👋, I'm Maryha Sulbhi 👧</h1>
 <h3 align="center">A passionate Data Science Student 🖥️🖥️ </h3>
 
 - 🔭 I’m currently learning DSA and logic building.
